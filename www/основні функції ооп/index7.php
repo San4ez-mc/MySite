@@ -1,0 +1,9 @@
+<?php
+	$message = " T????????";
+	$to = "alexander220393@mail.ru";
+	$from = "myrusakov@gmail.com";
+	$subject = "????????";
+	mail($to,$subject,$message);
+
+
+?>

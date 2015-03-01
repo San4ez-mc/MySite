@@ -1,0 +1,608 @@
+
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" style="padding: 15px; background-color: rgb(255, 255, 255); background: rgb(255, 255, 255)">
+<style>
+  body,h4{
+    font-family: Arial;
+  }
+  ul{
+    padding: 0px;
+    text-align: center;
+  }
+  ul li{
+    display: inline-block;
+    width: 73px;
+    height: 40px;
+    border-left: 1px solid #ffb217;
+    border-right: 1px solid #db7c00;
+    margin-left: -2px;
+    margin-right: -2px;
+    vertical-align: top;
+  }
+  ul li img{
+    width: 40px;
+    margin-top: 5px;
+  }
+  
+  .small-block {
+    width: 280px;
+    display: inline-block;
+    
+  }
+  
+  .small-block-icon{
+    width: 40px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .small-block-icon img{
+    width: 40px;
+  }
+  
+  .small-block-text{
+    display: inline-block;
+    width: 235px;
+    vertical-align: top;
+    margin-top: -23px;
+  }
+  
+  .margin-right{
+    margin-right: 45px;
+  }
+  
+  h4{
+    line-height: 1.5;
+    font-size: 18px;
+  }
+  
+  .phones p{
+    color: #0083cd;
+  }
+</style>
+<div class="main-wrapper">
+  <table class="content" align="center" width="600" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <td class="td" border="0" align="right">
+          <div class="block block-menu-processed block-menu">
+            <div class="info-region">
+              <table class="" border="0" cellpadding="0" cellspacing="0">
+                <tbody>
+                  <tr>
+                    <td border="0" class="td" align="left" valign="top" width="450">
+                      <div class="block-text-inner">
+                        <div class="block-content block-block text-editor info-region-block block-text-clicked-processed block-text-clicked">&nbsp;</div>
+                      </div>
+                    </td>
+                    <td border="0" class="td" align="left" valign="top" width="150">
+                      <div class="block-text-inner">
+                        <div class="block-content block-block text-editor info-region-block align-right block-text-clicked-processed block-text-clicked"><a href="https://pampi.esputnik.com.ua/viewInBrowser">Веб-версия письма</a></div>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div><div class="block-full-shadow"></div>
+        </td>
+      </tr>
+      <tr>
+        <td style=" height: 5px" border="0" class="td">
+          <div style="line-height:0;"><img class="img" src="https://pampi.esputnik.com.ua/es/repository/applications/images/blank.gif" alt="" height="5" width="1"></div>
+        </td>
+      </tr>
+      <tr>
+        <td class="td" border="0" align="left" valign="top">
+          <div class="main-border"><!-- CONTENT BEGIN  -->
+            <div class="block bt-logo-name block-menu-processed block-menu">
+              <div class="es-header first">
+                <div class="block-text-inner">
+                  <div class="block-content block-image align-center header-block block-image-dblclicked-processed block-image-dblclicked"><a href="http://pampik.com/"><img class="img" alt="Pampik – Подгузники, памперсы, пеленки, влажные салфетки" src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/he.png" align="middle" height="148" width="598"></a></div>
+                </div>
+                <div class="header" style="width: 100%; height: 50px;">
+                  <div style="width: 98%">
+                    <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/header.png" style="width: 102%;margin-left: 0px;">
+                    <div class="header-block" style="margin-top: -62px;  height: 40px;">
+                      <ul>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon1.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon2.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon3.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon4.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon5.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon6.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon7.png"></li>
+                        <li><img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/icon8.png"></li>
+                      </ul>
+                    </div>
+                  </div></div>
+              </div>
+              
+            </div><div class="block-full-shadow"></div>
+            <div class="block-container" style=" padding: 0px 10px;">
+              <div class="block bt-title block-menu-processed block-menu">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" align="left" valign="top">
+                        <div class="block-text-inner">
+                          <div class="block-content block-title text-editor default-title align-left block-text-clicked-processed block-text-clicked"><span style="color:#333333;"><span><b>Добрый день,&nbsp;%FIRSTNAME|%</b></span></span></div>
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+              <div class="block bt-text block-menu-processed block-menu">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" align="left" valign="top">
+                        <div class="block-text-inner">
+                          <div class="block-content block-text text-editor default-text align-left block-text-clicked-processed block-text-clicked"><span style="line-height:1.6;">10 сентября 2014 года вступило в действие <a href="http://zakon1.rada.gov.ua/laws/show/410-2014-%D0%BF">постановление Кабинета Министров Украины №410 от 03.09.2014</a> «Про затвердження переліку медичних виробів, операції з постачання на митній території України та ввезення на митну територію України яких підлягають обкладенню податком на додану вартість за ставкою 7%».<br>
+                            <br>
+                            В соответствии с этим постановлением, <strong>из перечня были исключены ПОДГУЗНИКИ.</strong><br>
+                            <br>
+                            Поэтому с <strong>10 сентября 2014 года ставка ПДВ на подгузники составит 20%, вместо 7%</strong> . Именно с этим и связано повышение розничных цен в нашем и других магазинах Украины.</span></div>
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+			  
+			  
+			  <div class="text block-content block-text text-editor default-text align-left block-text-clicked-processed block-text-clicked" style="padding: 5px; font-family: Arial;">
+				<h1 style="font-weight: normal; color: #0083cd;"> 6 причин покупать у нас</h1>
+				<div style="margin-left: -42px">
+                  <div class="small-block margin-right">
+                    <div class="small-block-icon">
+                      <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/blueicon1.png">
+                    </div>
+                    <div class="small-block-text">
+                      <div class="small-block-text-title">
+                        <h4>Самый большой интернет-магазин детских товаров</h4>
+                      </div>
+                      <div class="small-block-text-content">
+                        <p>Вы можете приобрести всё необходимое для себя и малыша в одном месте и по доступным ценам</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="small-block">
+                    <div class="small-block-icon">
+                      <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/blueicon1.png">
+                    </div>
+                    <div class="small-block-text">
+                      <div class="small-block-text-title">
+                        <h4>Самый большой интернет-магазин детских товаров</h4>
+                      </div>
+                      <div class="small-block-text-content">
+                        <p>Вы можете приобрести всё необходимое для себя и малыша в одном месте и по доступным ценам</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="small-block margin-right">
+                    <div class="small-block-icon">
+                      <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/blueicon1.png">
+                    </div>
+                    <div class="small-block-text">
+                      <div class="small-block-text-title">
+                        <h4>Самый большой интернет-магазин детских товаров</h4>
+                      </div>
+                      <div class="small-block-text-content">
+                        <p>Вы можете приобрести всё необходимое для себя и малыша в одном месте и по доступным ценам</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="small-block">
+                    <div class="small-block-icon">
+                      <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/blueicon1.png">
+                    </div>
+                    <div class="small-block-text">
+                      <div class="small-block-text-title">
+                        <h4>Самый большой интернет-магазин детских товаров</h4>
+                      </div>
+                      <div class="small-block-text-content">
+                        <p>Вы можете приобрести всё необходимое для себя и малыша в одном месте и по доступным ценам</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="small-block margin-right">
+                    <div class="small-block-icon">
+                      <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/blueicon1.png">
+                    </div>
+                    <div class="small-block-text">
+                      <div class="small-block-text-title">
+                        <h4>Самый большой интернет-магазин детских товаров</h4>
+                      </div>
+                      <div class="small-block-text-content">
+                        <p>Вы можете приобрести всё необходимое для себя и малыша в одном месте и по доступным ценам</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="small-block">
+                    <div class="small-block-icon">
+                      <img src="https://esputnik.com.ua/repository/home/4914/images/msg/70688797/blueicon1.png">
+                    </div>
+                    <div class="small-block-text">
+                      <div class="small-block-text-title">
+                        <h4>Самый большой интернет-магазин детских товаров</h4>
+                      </div>
+                      <div class="small-block-text-content">
+                        <p>Вы можете приобрести всё необходимое для себя и малыша в одном месте и по доступным ценам</p>
+                      </div>
+                    </div>
+                  </div>
+				</div>
+			  </div>
+              <div class="block block-menu-processed block-menu" id="104">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" align="left" valign="top" width="580">
+                        <div class="block-text-inner">
+                          <div class="block-content block-separator default-block align-left">
+                            <hr style=" margin:0;border-bottom: 1px dashed #cccccc;" size="0" color="#ffffff" noshade="noshade">
+                          </div>
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+              <!-- <div class="block bt-picture block-menu">
+<table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="3" border="0" class="td" height="10">
+<div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+</td>
+</tr>
+<tr>
+<!--   <td border="0" class="td" width="10">
+<div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+</td>
+<td border="0" class="td" align="left" valign="top">
+<!-- <div class="block-text-inner">
+<div class="block-content block-title3 text-editor default-title3 align-left block-text-clicked"><a href="http://pampik.com/news/ot-smesi---k-kashe-s-nutrilon">От смеси – к каше с Nutrilon</a></div>
+</div>
+</td>
+<td border="0" class="td" width="10">
+<div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+</td>
+</tr>
+<tr>
+<td colspan="3" border="0" class="td" height="10">
+<div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+</td>
+</tr>
+<tr>
+<td border="0" class="td" width="10">
+<div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+</td>
+<td border="0" class="td" align="center" valign="top">
+<div class="block-text-inner">
+<div class="block-content block-picture default-block align-center block-image-dblclicked"><a href="http://pampik.com/category/odnorazovyie-podguzniki/b/27/o/407-317"><img class="img" alt="Полезный подарок к подгузникам Libero" src="https://esputnik.com.ua/repository/home/4914/images/msg/70688792/735-libero04.jpg" align="middle" height="210" width="560"></a></div>
+</div>
+</td>
+<td border="0" class="td" width="10">
+<div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+</td>
+</tr>
+<tr>
+<td colspan="3" border="0" class="td" height="10">
+<div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+</td>
+</tr>
+<tr>
+<td border="0" class="td" width="10">
+<div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+</td>
+<td border="0" class="td" align="left" valign="top">
+<div class="block-text-inner">
+<div class="block-content block-text text-editor default-text align-left block-text-clicked"><span style="line-height:1.6">Отличная акция для маленьких любителей вкусностей от <strong>Nutrilon</strong>.<br>
+При покупке <a href="http://pampik.com/catalog/suhaya-detskaya-molochnaya-smes-nutrilon-2-s-prebiotikami-800-g">Сухой детской молочной смеси Nutrilon 2</a>, 800 г - &nbsp;любая <a href="http://pampik.com/category/kashi/b/91">каша Nutrilon</a> в <strong>ПОДАРОК!</strong><br>
+<br>
+<strong>Для Вас экономия – 49 грн.</strong><br>
+<br>
+<em>Период действия акции: с&nbsp;<strong>1 февраля</strong> по&nbsp;<strong>31 февраля 2015</strong></em></span> <em>года включительно.</em></div>
+</div>
+</td>
+<td border="0" class="td" width="10">
+<div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+</td>
+</tr>
+<tr>
+<td colspan="3" border="0" class="td" height="10">
+<div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>-->
+			  <div style="font-size: 14px;padding: 7px;">
+				<p><b>&lt;&lt;Имя&gt;&gt;, возвращайтесь, мы будем рады видеть Вас в числе наших постоянных клиентов.</b></p>
+				<p>PS: для того, чтобы мои письма без проблем приходили к Вам в почту, добавьте, пожалуйста, мой e-mail inna@pampik.com в свою адресную книгу.</p>
+				<p>PSS: мы приветствуем любые пожелания, предложения и даже критику в наш адрес, потому что всегда прислушиваемся к мнению нашего покупателя. Сейчас Пампик находится на этапе активного роста, мы растем и набираемся опыта, точно так же, как и наши маленькие клиенты :)</p>
+				<p>Остались вопросы? С радостью отвечу на них.
+                  
+                  
+                  
+                </p></div>
+			  
+              <div class="block bt-text block-menu-processed block-menu">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" align="left" valign="top">
+                        <div class="block-text-inner">
+                          <!--    <div class="block-content block-text text-editor default-text align-left block-text-clicked">
+<div><span style="border-bottom:2px solid #338C31;display:inline-block;border-radius:5px;"><a href="http://pampik.com/category/molochnyie-smesi/b/91" style=" border-style:solid; border-color: #78A400;border-width:6px 20px;display:inline-block; border-radius:4px; background: #78A400;font-size:20px;color: #ffffff;text-decoration: none;">Перейти в каталог Nutrilon ></a></span><br>
+<br>
+&nbsp;</div>
+</div>-->
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+              <div class="block bt-text block-menu-processed block-menu">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" align="left" valign="top">
+                        <div class="block-text-inner" style="margin-bottom: 20px;">
+                          <div style="font-size: 14px;" class="block-content block-text text-editor default-text align-left block-text-clicked-processed block-text-clicked">
+                            <div><b>Всегда ваша,</b></div>
+                            <div><b>Инна Мусаева от лица команды <a href="http://pampik.com">pampik.com</a></b><br>
+                              <div style="width: 200px; height: 30px; margin-top: 20px;">
+                                <a href="http://pampik.com/"><img class="img" src="https://esputnik.com.ua/repository/home/4914/common/images/small-logo.gif" align="left" height="37" width="200"></a>
+                              </div>
+							</div>
+                          </div>
+                        </div>
+						<div class="phones">
+                          <p>+380 (44) 232-97-73</p>
+                          <p>+380 (44) 383-60-30</p>
+                          <p>+380 (93) 170-07-70</p>
+                          <p></p>
+						</div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+              <div class="block block-menu-processed block-menu" id="104">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" align="left" valign="top" width="580">
+                        <div class="block-text-inner">
+                          <div class="block-content block-separator default-block align-left">
+                            <hr style=" margin:0;border-bottom: 1px dashed #cccccc;" size="0" color="#ffffff" noshade="noshade">
+                          </div>
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+              <div class="block block-menu-processed block-menu" id="75">
+                <table class="default" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" style=" padding-bottom: 5px;" align="left" valign="top">
+                        <div class="block-text-inner">
+                          <div class="block-content block-text text-editor default-text align-left block-text-clicked-processed block-text-clicked">
+                            <div><strong>Будем на связи! Присоединяйтесь к сообществам наших клиентов:</strong></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                      <td border="0" class="td" style=" padding-bottom: 10px;" align="left" valign="top">
+                        <div class="block-text-inner">
+                          <div class="block-content block-text text-editor default-text align-left block-text-clicked-processed block-text-clicked"><span style="line-height:1.6">здесь можно пообщаться с другими мамами, похвастаться фотографиями своих деток, поделиться личным опытом с новоиспеченными родителями, а может посоветовать нам, как можно улучшить работу магазина.</span></div>
+                        </div>
+                      </td>
+                      <td border="0" class="td" width="10">
+                        <div style="line-height:0; width:10px; height:1px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="1" width="10"></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" style=" padding-top: 10px; padding-bottom: 60px;" align="left" background="https://esputnik.com.ua/repository/home/4914/common/images/bottom.jpg" valign="top">
+                        <div class="block-text-inner">
+                          <div class="block-content block-text text-editor default-text align-left block-text-clicked-processed block-text-clicked">
+                            <table align="center" cellpadding="5" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td><a href="https://www.facebook.com/pampik"><img alt="Fb" class="img" src="https://esputnik.com.ua/repository/home/4914/common/images/fb.png" align="middle" height="60" width="60"></a></td>
+                                  <td><a href="http://vk.com/pampik_com"><img alt="VK" class="img" src="https://esputnik.com.ua/repository/home/4914/common/images/vk.png" align="middle" height="60" width="60"></a></td>
+                                  <td><a href="http://plus.google.com/115591682511178756332/"><img alt="G+" class="img" src="https://esputnik.com.ua/repository/home/4914/common/images/gp.png" align="middle" height="60" width="60"></a></td>
+                                  <td><a href="http://odnoklassniki.ru/group/52080371695829"><img alt="Ok" class="img" src="https://esputnik.com.ua/repository/home/4914/common/images/ok.png" align="middle" height="60" width="60"></a></td>
+                                  <td><a href="https://www.youtube.com/user/PampikCom"><img alt="Yt" class="img" src="https://esputnik.com.ua/repository/home/4914/common/images/yt.png" align="middle" height="60" width="60"></a></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3" border="0" class="td" height="10">
+                        <div style="line-height:0; width:1px; height:10px;"><img class="img" src="https://esputnik.com.ua/repository/applications/images/blank.gif" alt="" height="10" width="1"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div><div class="block-full-shadow"></div>
+            </div>
+            <!-- CONTENT END  --></div>
+        </td>
+      </tr>
+      <tr>
+        <td class="td" border="0">
+          <div class="block block-menu-processed block-menu">
+            <div class="info-region">
+              <div class="block-text-inner">
+                <div class="block-content block-block text-editor info-region-block block-text-clicked-processed block-text-clicked" data-type="info-region">
+                  <table class="info-region-block" width="100%" border="0" cellpadding="5" cellspacing="10">
+                    <tbody>
+                      <tr>
+                        <td border="0" class="td" align="right" valign="middle"><span style="border: 0; font-size:14px;"><strong>Поделиться письмом с друзьями!</strong></span></td>
+                        <td border="0" class="td" align="left" valign="top">
+                          <table cellpadding="5">
+                            <tbody>
+                              <tr>
+                                <td><a href="https://pampi.esputnik.com.ua/share?t=fb"><img alt="Поделиться в Facebook" class="img" src="https://pampi.esputnik.com.ua/repository/applications/common/images/share-to-facebook.png" title="Поделиться в Facebook" height="20" width="91"></a></td>
+                                <td><a href="https://pampi.esputnik.com.ua/share?t=tw"><img alt="Твитнуть" class="img" src="https://pampi.esputnik.com.ua/repository/applications/common/images/share-to-twitter.png" title="Твитнуть" height="20" width="74"></a></td>
+                                <td><a href="https://pampi.esputnik.com.ua/share?t=vk"><img alt="Поделиться Вконтакте" class="img" src="https://pampi.esputnik.com.ua/repository/applications/common/images/share-to-vk.png" title="Поделиться Вконтакте" height="20" width="85"></a></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div><div class="block-full-shadow"></div>
+        </td>
+      </tr>
+      <tr>
+        <td style=" height: 5px" border="0" class="td">
+          <div style="line-height:0;"><img class="img" src="https://pampi.esputnik.com.ua/es/repository/applications/images/blank.gif" alt="" height="5" width="1"></div>
+        </td>
+      </tr>
+      <tr>
+        <td class="td" border="0" align="left">
+          <div class="block block-menu-processed block-menu">
+            <div class="info-region">
+              <div class="block-text-inner">
+                <div class="block-content block-block text-editor info-region-block align-center block-text-clicked-processed block-text-clicked" data-type="info-region">Вы получили это письмо на адрес %EMAIL%, потому что являетесь клиентом pampik.com.<br>
+                  <a class="info-region-link" href="https://pampi.esputnik.com.ua/unsubscribe">Отписаться от писем</a></div>
+              </div>
+            </div>
+          </div><div class="block-full-shadow"></div>
+        </td>
+      </tr>
+      <tr>
+        <td class="td" border="0" align="left"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+

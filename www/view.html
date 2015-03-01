@@ -1,0 +1,52 @@
+﻿<?php
+
+
+
+?>
+
+
+
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>Стаття</h1>
+		<p>Текст статті...</p>
+		<h2>Комментарі</h2>
+		<?if(count($array)!=0)
+				{?>
+				<table>
+				<?for ($i=0; $i<count($array);$i++)
+					{?>
+					<tr>
+						<td><b><?=$array[$i]["name"]?></b></td>
+						<td><?=$array[$i]["comment"]?></td>
+					</tr>
+					<tr>
+						<td colspan ='2'><hr/></td>
+					</tr>
+					<?}?>
+				</table>
+				<?}?>
+			<h3>Добавити комментарій</h3>
+			<form name = "myform" action = "controller.php" method ="post">
+				<table>
+					<tr>
+						<td>Ім'я</td>
+						<td>
+							<input type = "text" name = "name"/>
+						</td>
+					</tr>
+					<tr>
+						<td>Комментар</td>
+						<td>
+							<textarea name="comment" cols = "20" rows="3"></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td colspan ="2">
+							<input type="submit" name="Send" value= "відправити">
+						</td>
+					</tr>
+	</body>
+</html>

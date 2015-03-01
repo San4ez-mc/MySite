@@ -1,0 +1,26 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<form name = "form1" action = "index.php" method = "post">
+			<table>
+				<tr>
+					<td><h2>€кесь не€сне голосуванн€</h2></td>
+				</tr>
+					<?for($i=0; $i<5;$i++)
+						{?>
+						<tr>
+							<td><input type="radio" name = "radio<?=$i?>" value="isChecked"></td>
+							<td>variant<?=$i?></td>
+						</tr>
+						<?}?>
+						
+				<tr>
+					<td>
+						<input type = "submit" name = "ok" value="ѕроголосувати">
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>

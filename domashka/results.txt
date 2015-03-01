@@ -1,0 +1,25 @@
+variant0 4
+variant1 3
+variant2 1
+variant3 6
+variant4 5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
